@@ -6,7 +6,7 @@
 
 <samp>
 
-\> hey, i'm **kongesque**
+\> hey, i'm **kong**
 
 \> software engineer • creative thinker • problem solver • daydreamer
 
