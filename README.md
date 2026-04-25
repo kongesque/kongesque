@@ -6,10 +6,12 @@
 
 <samp>
 
-\> hey, i'm **kong**
+\> hey, i'm **kong** — computer vision engineer
 
-\> software engineer • creative thinker • problem solver • daydreamer
+\> currently building **[locus-vision](https://github.com/kongesque/locus-vision)** — open-source video analytics. yolov6n at 355 fps on a raspberry pi 5 + hailo-8l npu (7ms hardware latency).
 
-\> see more at [kongesque.com](https://www.kongesque.com)
+\> stack i live in: sveltekit · fastapi · onnx · tflite · opencv · yolo
+
+\> more at [kongesque.com](https://www.kongesque.com)
 
 </samp>
