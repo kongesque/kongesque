@@ -6,9 +6,7 @@
 
 <samp>
 
-\> hey, i'm **kong**. computer vision engineer.
-
-\> currently building **[locus-vision](https://github.com/kongesque/locus-vision)**, open-source video analytics. got yolov6n running at 355 fps on a pi 5 + hailo-8l.
+\> hey, i'm **kong**. 
 
 \> stack i live in: sveltekit · fastapi · onnx · tflite · opencv · yolo
 
