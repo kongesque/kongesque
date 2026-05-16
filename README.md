@@ -8,8 +8,4 @@
 
 \> hey, i'm **kong**. 
 
-\> stack i live in: sveltekit · fastapi · onnx · tflite · opencv · yolo
-
-\> more at [kongesque.com](https://www.kongesque.com)
-
 </samp>
